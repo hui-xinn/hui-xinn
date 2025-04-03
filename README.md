@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @hui-xinn
-- 👀 I’m interested in creating web applications and websites
-- 🌱 I’m currently studying Applied AI and Analytics in NYP
+- 👀 I’m interested in using github as a collaboration platform across different coding languages
+- 🌱 I’m currently studying Fintech
 - 📫 How to reach me --> via email at: huixintanhx@gmail.com
 - 💞️ View my online profile here: https://huixintanhx.wixsite.com/my-site
-- part of NYP Ladies In Tech (head of planning commitee)
-- current president of NYP Guitar Club
 
 <!---
 hui-xinn/hui-xinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
